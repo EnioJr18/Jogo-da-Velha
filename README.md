@@ -38,11 +38,11 @@ Ter o Python 3 instalado na máquina. <br>
 Passo a passo <br>
 Clone este repositório: <br>
 
-git clone [https://github.com/SEU-USUARIO/NOME-DO-REPO.git](https://github.com/SEU-USUARIO/NOME-DO-REPO.git) <br>
+git clone https://github.com/EnioJr18/Jogo-da-Velha <br>
 
 
 Aceda à pasta do projeto: <br>
-    cd NOME-DO-REPO <br>
+    cd Jogo-da-Velha <br>
 
 
 Execute o jogo: <br>
@@ -59,3 +59,17 @@ try: <br>
 except ValueError: <br>
     print("❌ Digite apenas números!") <br>
     continue <br>
+
+
+## 🤝 Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
+
+## 📄 Licença
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## 👨‍💻 Autor
+Desenvolvido por Enio Jr, para fins de estudo de lógica de programação e Python.
+
+📧 Entre em contato: eniojr100@gmail.com <br>
+🔗 LinkedIn: https://www.linkedin.com/in/enioeduardojr/ <br>
+📷 Instagram: https://www.instagram.com/enio_juniorrr/ <br>
